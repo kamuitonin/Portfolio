@@ -2,4 +2,4 @@
 title: All Projects
 ---
 
-[Linkedin Posts]()
+[Linkedin Posts](linkedin_posts)
