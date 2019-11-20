@@ -1,5 +1,7 @@
 
-# My journey
-Description of the journey
-
 [My Projects](project)
+
+# My journey
+About me
+
+
