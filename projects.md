@@ -3,6 +3,6 @@ title: All Projects
 ---
 
 ## Linkedin Posts
-[A starting path into a data career](https://www.linkedin.com/post/edit/6594247380583895040/)
+[A starting path into a data career](http://bit.ly/37hY4Lj)
 
-[Data Career - Part 2: Data Engineer, the foundation of a data team](https://www.linkedin.com/post/edit/6594606634717204480/)
+[Data Career - Part 2: Data Engineer, the foundation of a data team](http://bit.ly/35iYDme)
