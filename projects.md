@@ -1,3 +1,7 @@
+---
+title: All Projects
+---
+
 ## Linkedin Posts
 [A starting path into a data career](https://www.linkedin.com/post/edit/6594247380583895040/)
 
