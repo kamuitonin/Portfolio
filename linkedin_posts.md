@@ -9,3 +9,9 @@
 [Data Career - Part 4: Data Scientist: the job of the 21st century](http://bit.ly/2P1DYh0)
 
 [Data Career - Part 5: Data Scientist: the job of the 21st century](http://bit.ly/2TNkRu7)
+
+
+# Personal Finances and Data Analytics
+[Using data analytics to improve personal finances](bit.ly/388rIlT)
+
+[Google Sheets and Data Studio: your partner in Personal Finances](http://bit.ly/2Hb8ccS)
