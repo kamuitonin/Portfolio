@@ -8,7 +8,7 @@
 
 [Data Career - Part 4: Data Scientist: the job of the 21st century](http://bit.ly/2P1DYh0)
 
-[Data Career - Part 5: Data Scientist: the job of the 21st century](http://bit.ly/2TNkRu7)
+[Data Career - Part 5: When a decision needs to be made, they call a Business Analyst!](http://bit.ly/2TNkRu7)
 
 
 # Personal Finances and Data Analytics
